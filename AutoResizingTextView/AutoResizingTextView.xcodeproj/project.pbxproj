@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		FF2938C4200D9BE100E4870D /* TextViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF2938C3200D9BE100E4870D /* TextViewCell.swift */; };
 		FF5D5C422008AECC00052FBA /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF5D5C412008AECC00052FBA /* AppDelegate.swift */; };
 		FF5D5C442008AECC00052FBA /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF5D5C432008AECC00052FBA /* ViewController.swift */; };
 		FF5D5C472008AECC00052FBA /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FF5D5C452008AECC00052FBA /* Main.storyboard */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		FF2938C3200D9BE100E4870D /* TextViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextViewCell.swift; sourceTree = "<group>"; };
 		FF5D5C3E2008AECC00052FBA /* AutoResizingTextView.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AutoResizingTextView.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		FF5D5C412008AECC00052FBA /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		FF5D5C432008AECC00052FBA /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -55,6 +57,7 @@
 			isa = PBXGroup;
 			children = (
 				FF5D5C412008AECC00052FBA /* AppDelegate.swift */,
+				FF2938C3200D9BE100E4870D /* TextViewCell.swift */,
 				FF5D5C432008AECC00052FBA /* ViewController.swift */,
 				FF5D5C452008AECC00052FBA /* Main.storyboard */,
 				FF5D5C482008AECC00052FBA /* Assets.xcassets */,
@@ -136,6 +139,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FF2938C4200D9BE100E4870D /* TextViewCell.swift in Sources */,
 				FF5D5C442008AECC00052FBA /* ViewController.swift in Sources */,
 				FF5D5C422008AECC00052FBA /* AppDelegate.swift in Sources */,
 			);
